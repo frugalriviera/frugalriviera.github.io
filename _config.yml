@@ -4,7 +4,7 @@ url: "https://sylhare.github.io"
 title: Frugal Riviera Blog # site's title
 description: "A blog to discover how to enjoy frugal holidays on the French Riviera" # used by search engines
 permalink: /blog/:year/:month/:day/:title
-gems: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
