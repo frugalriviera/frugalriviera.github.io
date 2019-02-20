@@ -5,7 +5,6 @@ tags: ["gastronomy", "eating", "restaurants", "supermarkets"]
 excerpt_separator: <!--more-->
 ---
 French cuisine is one of the most famous ones in the world. Another really popular one is the Italian. Have a look at the map below and remind yourself that the Riviera is on the border of France and Italy having the Mediterranean on its south. Sounds great? It is!
-
 <!--more-->
 
 ![French-Italian border]({{ site.baseurl }}/assets/img/french-italian-border-small.jpg "French-Italian border")
